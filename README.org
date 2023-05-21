@@ -1,1 +1,7 @@
 This are some programs that I have packaged with Nix and shells.
+
+
+Good links:
+
+ - https://ryantm.github.io/nixpkgs/using/configuration/#chap-packageconfig
+ - https://wiki.nikiv.dev/package-managers/nix/
