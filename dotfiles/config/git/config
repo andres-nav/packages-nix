@@ -1,0 +1,9 @@
+[user]
+	name = Andres Navarro
+	email = git@andresnav.com
+[init]
+	defaultBranch = main
+[github]
+	user = andres-nav
+[gitlab]
+	user = andres-nav
